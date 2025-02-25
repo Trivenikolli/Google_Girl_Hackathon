@@ -14,5 +14,3 @@ System Requirements:
  Configure environment variables if API keys or database credentials are needed.
  Run the application to start the server.
  Open the application in a web browser and interact with it.
- 
- 
