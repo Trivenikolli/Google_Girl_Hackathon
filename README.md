@@ -3,7 +3,7 @@ Environment Needed to Run the Code:
 System Requirements: 
  Operating System: Windows 10/11, macOS, Linux (Ubuntu 20.04+)
  Processor: Intel i5/i7 or AMD Ryzen 5/7 
- RAM: 8GB minimum (16GB recommended)
+ RAM: 8GB 
  Storage: 10GB free disk space
  Python Version: 3.8
  
